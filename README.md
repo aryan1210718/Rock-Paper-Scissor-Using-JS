@@ -2,10 +2,6 @@
 
 A simple **Stone-Paper-Scissors** game built using HTML, CSS, and JavaScript. The user can play against the computer, and the game will display the result (win, lose, or draw) based on the user's and computer's choices.
 
-## Demo
-
-[Click here for a live demo](#) (If you have a demo link, add it here)
-
 ## Features
 
 - Interactive game interface.
